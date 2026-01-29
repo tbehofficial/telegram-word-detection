@@ -1,89 +1,42 @@
 {
   "keywords": [
-
-    /* === HACKING / CYBER CRIME (ADVANCED) === */
-    "hack","hacking","h@ck","h4ck","h3ck","h a c k","h.a.c.k","h-a-c-k",
-    "crack","cracking","cr@ck","cr4ck","c r a c k",
-    "ddos","d-dos","dos","dos attack","flood","udp flood","tcp flood",
-    "phishing","ph1shing","ph!shing","phish","fake login","clone site","clone page",
-    "carding","cc","cc full","cc dump","credit card","debit card","atm hack",
-    "upi hack","bank hack","paypal hack","netflix hack",
-    "keylogger","key logger","logger","spyware","malware","trojan","rat","remote access",
-    "payload","backdoor","shell","webshell","c99","r57",
-    "sql injection","sqli","xss","csrf","lfi","rfi",
-    "bruteforce","brute force","password crack","pwd crack",
-    "mod apk","mod app","premium mod","paid mod","unlock premium",
-    "license bypass","activation crack",
-
-    /* === TELEGRAM ILLEGAL SERVICES === */
-    "hack service","crack service","paid hack","paid crack",
-    "account recovery","instagram hack","facebook hack","gmail hack",
-    "whatsapp hack","telegram hack",
-    "otp bypass","otp hack","sms bypass","call bombing",
-    "number bombing","sms bomber","call bomber",
-
-    /* === SELL / BUY / MARKET === */
-    "sell","selling","buy","buying","for sale","available","price","rate",
-    "cheap","discount","offer","deal","limited offer",
-    "paid","payment","pay first","advance payment",
-    "service available","service open","order now",
-    "dm for price","pm for price","contact for price",
-    "reseller","dealer","wholesale",
-
-    /* === DM / CONTACT BAIT === */
-    "dm","d.m","d m","pm","p.m","p m",
-    "inbox","in box","ib","msg me","message me",
-    "contact me","reach me","text me",
-    "telegram me","whatsapp me","call me",
-
-    /* === LINKS / REDIRECTION === */
-    "http","https","www","t.me","telegram.me","tg://",
-    "bit.ly","tinyurl","shorturl","rebrand.ly",
-    "join link","click link","tap link","open link",
-    "visit site","visit link","check link",
-
-    /* === SCAM / FRAUD === */
-    "scam","scammer","fake","fraud","cheat","cheating","loot",
-    "100% legit","guaranteed","guarantee profit",
-    "double money","triple money",
-    "earn fast","quick money","easy money",
-    "no risk","risk free",
-    "trusted seller","verified seller","proof available",
-    "investment","crypto profit","forex profit",
-
-    /* === JOB / EARNING SPAM === */
-    "online job","work from home","wfh",
-    "daily income","monthly income",
-    "earn per day","per refer","per invite",
-    "no skill job","typing job",
-    "data entry job","captcha job",
-
-    /* === ADULT / GIRL / BAIT === */
-    "girl","girls","hot girl","sexy","nude","nudes",
-    "video call","private video","private call",
-    "call girl","escort","dating","date me",
-    "single girl","available girl",
-
-    /* === HINDI / HINGLISH ABUSE & SPAM === */
-    "chutiya","chutya","ch*tiya","c h u t i y a",
-    "madarchod","mad*rchod","m a d a r c h o d","mc",
-    "bhosdi","bhosdike","bhos*di","b h o s d i",
-    "gaand","gandu","g a n d u",
-    "harami","kamina","saala","saale",
-    "bsdk","b s d k",
-
-    /* === FAKE / IMPERSONATION === */
-    "official","admin here","real admin",
-    "support here","help desk",
-    "customer care","helpline",
-    "verify account","account suspended",
-
-    /* === OBFUSCATION / SPACED WORDS === */
-    "h a c k i n g","c r a c k i n g","d m","p m",
-    "l i n k","s e l l","b u y",
-    "j o i n","c l i c k","t a p",
-
-    /* === EMOJI BAIT (OPTIONAL) === */
-    "💰","💸","🔥","⚡","🚀","✅","❌","🎁","📩","📞"
+    "hack","hacking","hacker","h4ck","h4cking","h@ck","h@cking","h3ck","h3cking",
+    "crack","cracking","cr@ck","cr4ck","破解器",
+    "ddos","dos","flood","server down","attack",
+    "phishing","ph1shing","phish","spoof","spoofing",
+    "scam","scammer","fraud","fraudster","fake","f@ke",
+    "carding","carder","cc dump","cvv","fullz",
+    "keylogger","keystroke","logger",
+    "malware","spyware","adware","trojan","virus","worm","ransomware","rat",
+    "botnet","backdoor","payload","exploit","zero day",
+    "sql injection","sqli","xss","csrf","bruteforce","brute force",
+    "password hack","account hack","id hack","gmail hack","facebook hack",
+    "telegram hack","instagram hack","whatsapp hack",
+    "sell account","buy account","account for sale","cheap account",
+    "selling id","buying id","clone id","fake id","duplicate id",
+    "dm me","dm fast","pm me","inbox me","contact me","telegram me",
+    "join fast","join asap","limited offer","offer valid","deal now",
+    "earning guaranteed","100% profit","no risk","double money",
+    "investment scheme","ponzi","hyip",
+    "crypto scam","airdrop scam","fake airdrop","free crypto scam",
+    "loan scam","upi scam","otp scam","verification scam",
+    "girl available","girls available","call girl","escort",
+    "sex","porn","porno","xxx","nude","nudes","18+","adult",
+    "onlyfans leak","mms leak","video leak","private video",
+    "abuse","abusive","gaali",
+    "chutiya","chutiye","madarchod","madar","bhenchod","behenchod",
+    "bsdk","harami","haramzada","kamina","gandu","lodu",
+    "kill","murder","assassinate","hitman","contract kill",
+    "gun","pistol","weapon","bomb","blast","explosive",
+    "terror","terrorist","isis","isil","jihad",
+    "drug","drugs","ganja","charas","smack","cocaine","heroin",
+    "sell drugs","buy drugs","drug dealer",
+    "fake passport","fake visa","illegal documents",
+    "black money","money laundering","hawala",
+    "pirated","piracy","cracked software","license crack",
+    "torrent","warez",
+    "spam","spammer","bulk message","bulk dm",
+    "auto forward","auto add","member add",
+    "fake review","paid review","review exchange"
   ]
-    }
+}
